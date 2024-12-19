@@ -6,7 +6,7 @@
 
 ## Features
 
-## Abstract data types
+### Abstract data types
 
 | Abstract data type        | Data structure(s)                                              |
 |---------------------------|----------------------------------------------------------------|
@@ -22,7 +22,7 @@
 > [!WARNING]  
 > Abstract data types were not implemented with thread safety in mind.
 
-## Algorithms
+### Algorithms
 
 *Coming soon...*
 

@@ -1,12 +1,12 @@
 <div align="center">
   <img width="120px" src="meatballs.png">
   <h1>meatballs</h1>
-  <p>Abstract data types and algorithms library</p>
+  <p>Data structures and algorithms library</p>
 </div>
 
 ## Features
 
-### Abstract data types
+### Data structures
 
 | Abstract data type        | Data structure(s)                                              |
 |---------------------------|----------------------------------------------------------------|
